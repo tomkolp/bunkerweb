@@ -1,6 +1,6 @@
 bcrypt==5.0.0
 biscuit-python<0.4.0
-cryptography==46.0.2
+cryptography==46.0.6
 fastapi==0.118.0
 gunicorn==23.0.0
 pydantic==2.11.9
